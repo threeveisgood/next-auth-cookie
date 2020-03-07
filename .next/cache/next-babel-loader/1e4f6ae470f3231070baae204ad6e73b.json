@@ -1,0 +1,1 @@
+{"ast":null,"code":"function MyApp() {}\n\nexport default MyApp;","map":{"version":3,"sources":["E:/Coding/next-cookie-auth/pages/_app.js"],"names":["MyApp"],"mappings":"AAAA,SAASA,KAAT,GAAiB,CAEhB;;AAED,eAAeA,KAAf","sourcesContent":["function MyApp() {\r\n    \r\n}\r\n\r\nexport default MyApp"]},"metadata":{},"sourceType":"module"}
